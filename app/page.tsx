@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import Hero from '../components/Hero';
+import VideoIntro from '../components/VideoIntro';
 import ProblemSolution from '../components/ProblemSolution';
 import CompetitiveAdvantage from '../components/CompetitiveAdvantage';
 import HowItWorks from '../components/HowItWorks';
@@ -14,6 +15,7 @@ export default function Home() {
     <main className="min-h-screen">
       <Header />
       <Hero />
+      <VideoIntro />
       <ProblemSolution />
       <CompetitiveAdvantage />
       <HowItWorks />

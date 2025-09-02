@@ -20,6 +20,7 @@ const Header: React.FC = () => {
 
   const navItems = [
     { name: 'Home', href: '#home' },
+    { name: 'Video Intro', href: '#video-intro' },
     { name: 'Problem & Solution', href: '#problem-solution' },
     { name: 'Why We\'re Best', href: '#competitive-advantage' },
     { name: 'How It Works', href: '#how-it-works' },

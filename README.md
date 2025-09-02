@@ -77,7 +77,7 @@ HealthPulse AI consists of three interconnected projects that work together to d
 - **Duration**: 2 minutes
 - **Purpose**: Quick business pitch for investors and partners
 
-[![HealthPulse AI Business Introduction](https://img.shields.io/badge/🎬-Watch%20Business%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/preview)
+[![HealthPulse AI Business Introduction](https://img.shields.io/badge/🎬-Watch%20Business%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MybTKaXGMWSLx6C6WJON1LpHwAfwztBo/preview)
 
 **▶️ Click the button above to watch our 2-minute business introduction**
 

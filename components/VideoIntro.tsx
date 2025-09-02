@@ -92,7 +92,7 @@ const VideoIntro: React.FC = () => {
               <div className="relative">
                 <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
                   <iframe
-                    src="https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/preview"
+                    src="https://drive.google.com/file/d/1MybTKaXGMWSLx6C6WJON1LpHwAfwztBo/preview"
                     className="absolute top-0 left-0 w-full h-full"
                     allow="autoplay"
                     title="HealthPulse AI Business Introduction"

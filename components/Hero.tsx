@@ -149,12 +149,25 @@ const Hero: React.FC = () => {
               transition={{ duration: 0.6, delay: 1 }}
               className="flex flex-col sm:flex-row gap-4"
             >
-              <Button size="lg" className="group bg-red-600 hover:bg-red-700">
+              <a 
+                href="https://v0-health-and-fitness.vercel.app/dashboard" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 bg-gradient-to-r from-red-600 to-red-700 text-white hover:from-red-700 hover:to-red-800 shadow-lg hover:shadow-xl focus:ring-red-500 px-8 py-4 text-lg group"
+              >
                 <Play className="w-5 h-5 mr-2" />
-                Watch Demo Video
+                Try HealthPulse AI
                 <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
-              </Button>
-
+              </a>
+              <a 
+                href="https://docs.google.com/presentation/d/11cij2aW0rwy-7c0gxZX_a6ijfhOloznhZlfAi-BFW9M/edit?usp=sharing" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 bg-transparent text-primary-600 border-2 border-primary-600 hover:bg-primary-50 focus:ring-primary-500 px-8 py-4 text-lg group"
+              >
+                View Presentation
+                <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
+              </a>
             </motion.div>
           </motion.div>
 

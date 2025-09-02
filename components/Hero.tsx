@@ -73,19 +73,6 @@ const Hero: React.FC = () => {
               <Footprints className="w-6 h-6 text-white" />
             </motion.div>
           </div>
-          <motion.div
-            animate={{ 
-              backgroundPosition: ['0% 50%', '100% 50%', '0% 50%']
-            }}
-            transition={{ 
-              duration: 3,
-              repeat: Infinity,
-              ease: "linear"
-            }}
-            className="inline-block bg-gradient-to-r from-primary-500 via-health-500 to-primary-500 bg-[length:200%_100%] bg-clip-text text-transparent"
-          >
-            <span className="text-2xl font-bold">🏃‍♂️ Transform Your Health Journey 🏃‍♀️</span>
-          </motion.div>
         </motion.div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -125,10 +112,9 @@ const Hero: React.FC = () => {
                 transition={{ duration: 0.6, delay: 0.6 }}
                 className="text-xl text-gray-600 leading-relaxed"
               >
-                <strong>The Problem:</strong> Millions of people wear health devices but struggle to understand their data. 
+                <strong>The Problem:</strong> Millions of people with health devices struggle to understand their data and get actionable guidance, and pet owners lack a holistic view of their dog's wellness and location.
                 <br /><br />
-                <strong>Our Solution:</strong> Health Pulse AI transforms raw sensor data into personalized, actionable insights using advanced LLMs, 
-                helping users achieve measurable health improvements.
+                <strong>Our Solution:</strong> Health Pulse AI provides a unified, intelligent platform that combines real-time human and dog health analytics with an AI-powered coach to deliver personalized, proactive wellness guidance.
               </motion.p>
             </div>
 

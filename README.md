@@ -76,13 +76,15 @@ HealthPulse AI consists of three interconnected projects that work together to d
 - **Content**: Business overview, market opportunity, and value proposition
 - **Duration**: 2 minutes
 - **Purpose**: Quick business pitch for investors and partners
-- **Watch**: [Business Introduction Video](https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/view?usp=drive_link)
+
+<iframe width="100%" height="400" src="https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/preview" frameborder="0" allowfullscreen></iframe>
 
 ### 📊 **Business Presentation Deck**
 - **Content**: Comprehensive business plan, market analysis, and financial projections
 - **Format**: Google Slides
 - **Purpose**: Detailed business presentation for stakeholders
-- **View**: [Business Presentation](https://docs.google.com/presentation/d/11cij2aW0rwy-7c0gxZX_a6ijfhOloznhZlfAi-BFW9M/edit?usp=sharing)
+
+<iframe width="100%" height="500" src="https://docs.google.com/presentation/d/11cij2aW0rwy-7c0gxZX_a6ijfhOloznhZlfAi-BFW9M/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 🚀 Quick Start
 
@@ -235,9 +237,8 @@ app/
 ## 🔗 Quick Links
 
 - **🚀 Live App**: [HealthPulse AI Dashboard](https://v0-health-and-fitness.vercel.app/dashboard)
-- **📊 Business Presentation**: [Google Slides Deck](https://docs.google.com/presentation/d/11cij2aW0rwy-7c0gxZX_a6ijfhOloznhZlfAi-BFW9M/edit?usp=sharing)
-- **🎬 Business Video**: [2-Min Intro](https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/view?usp=drive_link)
 - **🏠 Business Website**: [Live Business Site](https://health-pulse-ai-business.vercel.app)
+- **📁 GitHub Repository**: [healthAI-business](https://github.com/MitanshGor/healthAI-business)
 
 ## 📄 License
 

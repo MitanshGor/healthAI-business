@@ -77,14 +77,18 @@ HealthPulse AI consists of three interconnected projects that work together to d
 - **Duration**: 2 minutes
 - **Purpose**: Quick business pitch for investors and partners
 
-<iframe width="100%" height="400" src="https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/preview" frameborder="0" allowfullscreen></iframe>
+[![HealthPulse AI Business Introduction](https://img.shields.io/badge/🎬-Watch%20Business%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ePfTEE9Zmdiab8CISSMnpCld9RT9lhow/preview)
+
+**▶️ Click the button above to watch our 2-minute business introduction**
 
 ### 📊 **Business Presentation Deck**
 - **Content**: Comprehensive business plan, market analysis, and financial projections
 - **Format**: Google Slides
 - **Purpose**: Detailed business presentation for stakeholders
 
-<iframe width="100%" height="500" src="https://docs.google.com/presentation/d/11cij2aW0rwy-7c0gxZX_a6ijfhOloznhZlfAi-BFW9M/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[![HealthPulse AI Business Presentation](https://img.shields.io/badge/📊-View%20Business%20Presentation-green?style=for-the-badge&logo=google-slides)](https://docs.google.com/presentation/d/11cij2aW0rwy-7c0gxZX_a6ijfhOloznhZlfAi-BFW9M/embed?start=false&loop=false&delayms=3000)
+
+**📋 Click the button above to view our complete business presentation deck**
 
 ## 🚀 Quick Start
 
@@ -222,17 +226,7 @@ app/
 - Strategic acquisitions
 - IPO preparation
 
-## 📞 Contact & Partnerships
 
-### Business Inquiries
-- **Email**: business@healthpulse.ai
-- **Website**: [health-pulse-ai-business.vercel.app](https://health-pulse-ai-business.vercel.app)
-- **LinkedIn**: [HealthPulse AI](https://linkedin.com/company/healthpulse-ai)
-
-### Investment & Partnerships
-- **Investor Relations**: investors@healthpulse.ai
-- **Partnerships**: partnerships@healthpulse.ai
-- **Media**: press@healthpulse.ai
 
 ## 🔗 Quick Links
 

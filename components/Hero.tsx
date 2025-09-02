@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
   ];
 
   return (
-    <section id="home" className="min-h-screen gradient-bg flex items-center relative overflow-hidden">
+    <section id="home" className="min-h-screen gradient-bg flex items-center relative overflow-hidden pt-24 md:pt-28">
       {/* Background Elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute -top-40 -right-40 w-80 h-80 bg-primary-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-pulse-slow"></div>

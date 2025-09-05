@@ -112,9 +112,9 @@ const Hero: React.FC = () => {
                 transition={{ duration: 0.6, delay: 0.6 }}
                 className="text-xl text-gray-600 leading-relaxed"
               >
-                <strong>The Problem:</strong> Millions of people with health devices struggle to understand their data and get actionable guidance, and pet owners lack a holistic view of their dog's wellness and location.
+                <strong>The Problem:</strong> Millions of people with health devices struggle to understand their data and get actionable guidance.
                 <br /><br />
-                <strong>Our Solution:</strong> Health Pulse AI provides a unified, intelligent platform that combines real-time human and dog health analytics with an AI-powered coach to deliver personalized, proactive wellness guidance.
+                <strong>Our Solution:</strong> Health Pulse AI provides a unified, intelligent platform that combines real-time human health analytics with an AI-powered coach to deliver personalized, proactive wellness guidance.
               </motion.p>
             </div>
 
